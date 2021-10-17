@@ -17,13 +17,13 @@ Ly = Client(
 
 genius = Genius(Var.API)
 
-STARTPIC = "https://i.imgur.com/gv2SzKr.jpg"
+STARTPIC = "https://i.imgur.com/XbymdMw.png"
 
 START_BTN = ikb(
     [
         [
-            ("💬 Updates Channel", "t.me/damiensoukara", "url"),
-            ("🗣 Support Group", "t.me/damienhelp", "url"),
+            ("💬 Updates Channel", "t.me/ifoejeje", "url"),
+            ("🗣 Support Group", "t.me/ifoejeje", "url"),
         ],
         [
             ("👾 About", "about"),
@@ -33,10 +33,10 @@ START_BTN = ikb(
         [
             (
                 "🔗 Source Code",
-                "https://github.com/AmineSoukara/PyLyricsBot/fork",
+                "https://github.com/titu3e/PyLyricsBot/fork",
                 "url",
             ),
-            ("👨‍💻 Developer", "https://bio.link/aminesoukara", "url"),
+            ("👨‍💻 Developer", "https://bio.link/titu3e", "url"),
         ],
     ]
 )
