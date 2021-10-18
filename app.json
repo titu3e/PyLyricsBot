@@ -1,16 +1,16 @@
 {
     "name": "PyLyrics Bot",
-    "description": "PyLyrics Is An [Open-Source] Bot That Can Help You Get Song Lyrics By @AmineSoukara",
-    "logo": "https://i.imgur.com/gv2SzKr.jpg",
+    "description": "PyLyrics Is A Bot That Can Help You Get Song Lyrics By @Sungjinwooarc",
+    "logo": "https://i.imgur.com/XbymdMw.png",
     "keywords": [
         "Telegram",
         "Bots",
         "Genius",
         "Lyrics"
     ],
-    "repository": "https://github.com/AmineSoukara/PyLyricsBot",
-    "website": "https://telegram.dog/AmineSoukara",
-    "success_url": "https://t.me/DamienSoukara",
+    "repository": "https://github.com/titu3e/PyLyricsBot",
+    "website": "https://telegram.dog/Sungjinwooarc",
+    "success_url": "https://t.me/ifoejeje",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org",
