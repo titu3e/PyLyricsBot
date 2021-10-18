@@ -33,10 +33,9 @@ START_BTN = ikb(
         [
             (
                 "🔗 Source Code",
-                "https://github.com/titu3e/PyLyricsBot/fork",
-                "url",
+                "ask dev @Sungjinwooarc ",
             ),
-            ("👨‍💻 Developer", "https://bio.link/titu3e", "url"),
+            ("👨‍💻 Developer", "https://t.me/Sungjinwooarc", "url"),
         ],
     ]
 )
