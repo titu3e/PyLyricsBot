@@ -31,12 +31,12 @@ class Var(object):
 class Tr(object):
 
     START_TEXT = """
-👋 Hi ! {} Welcome To @PyLyricsBot !
+👋 Hi ! {} Welcome To @PyLyrics_Bot !
 
-PyLyrics Is An [Open-Source](https://github.com/AmineSoukara/PyLyricsBot/fork) Bot That Can Help You Get Song Lyrics
+PyLyrics Is An  Bot That Can Help You Get Song Lyrics
 """
 
-    ABOUT_TEXT = """🤖 **My Name:** [Py Lyrics](t.me/PyLyricsBot)
+    ABOUT_TEXT = """🤖 **My Name:** [Py Lyrics](t.me/PyLyrics_Bot)
 
 📝 **Language:** [Python 3](https://www.python.org)
 
@@ -44,21 +44,21 @@ PyLyrics Is An [Open-Source](https://github.com/AmineSoukara/PyLyricsBot/fork) B
 
 📡 **Hosted On:** [Heroku](heroku.com)
 
-👨‍💻 **Developer:** [Amine Soukara](t.me/AmineSoukara)
+👨‍💻 **Developer:** [Sungjinwoo](t.me/Sungjinwooarc)
 
-💡 **Source Code:** [Github](https://github.com/AmineSoukara/PyLyricsBot/fork)
+💡 **Source Code:** [Github](https://github.com/titu3e/PyLyricsBot/fork)
 
-👥 **Support Group:** [Damien Help](https://t.me/DamienHelp)
+👥 **Support Group:** [ifoejeje](https://t.me/ifoejeje)
 
-📢 **Updates Channel:** [Damien Soukara](https://t.me/DamienSoukara)
+📢 **Updates Channel:** [ifoejeje](https://t.me/ifoejeje)
 
 
-❤ [Donate](https://www.paypal.me/AmineSoukara) (PayPal)
+❤ [Donate](https://t.me/ifoejeje) (Telegram)
 """
 
     HELP_TEXT = """💡 Just Send Me The Name Of The Song.  That's it
 
-❤ [Donate](https://www.paypal.me/AmineSoukara) (PayPal)
+❤ [Donate](https://t.me/ifoejeje) (Telegram)
 """
 
     ERR_TEXT = "⚠️ Genius API Not Found"
